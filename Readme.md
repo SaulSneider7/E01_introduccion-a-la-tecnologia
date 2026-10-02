@@ -1,4 +1,4 @@
-# TRABAJO FINAL
+# TRABAJO FINAL - GRUPOS MAXIMO 4 INTEGRANTES
 ## Propuesta de Solución Tecnológica para una Organización
 
 ### Objetivo
